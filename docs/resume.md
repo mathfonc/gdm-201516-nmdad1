@@ -11,7 +11,7 @@
 ![](http://imgur.com/k0mJWOv.gif)
 ![](http://imgur.com/DCW0PvA.gif)
 
-[Vimeo](https://vimeo.com/mathiasfonck)
+Meer animatie en video op [Vimeo](https://vimeo.com/mathiasfonck).
 
 ## Werkervaring
 
@@ -24,8 +24,8 @@ Mijn werkervaring in de multimediale en grafische branche is zeer beperkt. Ik he
 * CSS
 * jQuery
 * JavaScript
-* Wordpress
 * My SQL 
+* Wordpress
 
 ## Softwarekennis
 
