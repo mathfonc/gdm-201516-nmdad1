@@ -6,9 +6,9 @@
 
 ## Portfolio
 
-![](http://imgur.com/k0mJWOv)
-![](http://imgur.com/HtFXcfI)
-![](http://imgur.com/DCW0PvA)
+![](http://imgur.com/k0mJWOv.gif)
+![](http://imgur.com/HtFXcfI.gif)
+![](http://imgur.com/DCW0PvA.gif)
 ![](https://vimeo.com/129242458)
 ## Werkervaring
 
@@ -19,7 +19,8 @@ Mijn werkervaring in de multimediale en grafische branche is zeer beperkt. Ik he
 * CSS
 * jQuery
 * JavaScript
-* My SQL (beperkt)
+* Wordpress
+* My SQL 
 
 ## Softwarekennis
 
