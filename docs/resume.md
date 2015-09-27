@@ -15,7 +15,7 @@ Meer animatie en video op [Vimeo](https://vimeo.com/mathiasfonck).
 
 ## Werkervaring
 
-Mijn werkervaring in de multimediale en grafische branche is zeer beperkt. Ik heb echter wel 7 jaar ervaring in de horeca[^foot].
+Mijn werkervaring in de multimediale en grafische branche is zeer beperkt. Ik heb echter wel 7 jaar ervaring in de horeca[^foot] .
 
 [^foot]: Splintercompositum van de woorden hotel, restaurant en café.
 
@@ -24,7 +24,7 @@ Mijn werkervaring in de multimediale en grafische branche is zeer beperkt. Ik he
 * CSS
 * jQuery
 * JavaScript
-* My SQL 
+* SQL 
 * Wordpress
 
 ## Softwarekennis
