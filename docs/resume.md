@@ -17,7 +17,7 @@ Meer animatie en video op [Vimeo](https://vimeo.com/mathiasfonck).
 
 Mijn werkervaring in de multimediale en grafische branche is zeer beperkt. Ik heb echter wel 7 jaar ervaring in de horeca[^foot] .
 
-[^foot]: Splintercompositum van de woorden hotel, restaurant en café.
+
 
 ## Kennis webtechnologieën
 * HTML
@@ -49,4 +49,6 @@ Mijn werkervaring in de multimediale en grafische branche is zeer beperkt. Ik he
 |:---|:---:|
 | Twitter: | [mathiasfonck](https://twitter.com/MathiasFonck?lang=nl) |
 | Vimeo: | [mathiasfonck](https://vimeo.com/mathiasfonck) |
-| Pinterest: | [mathiasfonck](https://nl.pinterest.com/mathiasfonck/) |
+| Pinterest: | [mathiasfonck](https://nl.pinterest.com/mathiasfonck/) |`
+
+[^foot]: Splintercompositum van de woorden hotel, restaurant en café.
