@@ -1,16 +1,28 @@
 # Resume
+
 ## Biografie
+
 ![Mathias Fonck](https://nl.gravatar.com/userimage/61446368/43354f6461a6ca9c010df56f6764f28c?size=200)
+
 ## Portfolio
+
+![](http://imgur.com/k0mJWOv)
+![](http://imgur.com/HtFXcfI)
+![](http://imgur.com/DCW0PvA)
+![](https://vimeo.com/129242458)
 ## Werkervaring
+
 Mijn werkervaring in de multimediale en grafische branche is zeer beperkt. Ik heb echter wel 7 jaar ervaring in de horeca.
+
 ## Kennis webtechnologieën
 * HTML
 * CSS
 * jQuery
 * JavaScript
 * My SQL (beperkt)
+
 ## Softwarekennis
+
 * OS
   * OS X Yosemite
   * Windows 8
@@ -24,7 +36,9 @@ Mijn werkervaring in de multimediale en grafische branche is zeer beperkt. Ik he
   * Microsoft Office Word
   * Microsoft Office Excel
   * LaTeX 
+  
 ## Contactinformatie
+
 | Mailadres: | [mathiasdafonck@gmail.com](mailto:mathiasdafonck@gmail.com) |
 |:---|:---:|
 | Twitter: | [mathiasfonck](https://twitter.com/MathiasFonck?lang=nl) |
