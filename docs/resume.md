@@ -4,15 +4,20 @@
 
 ![Mathias Fonck](https://nl.gravatar.com/userimage/61446368/43354f6461a6ca9c010df56f6764f28c?size=200)
 
+
+
 ## Portfolio
 
 ![](http://imgur.com/k0mJWOv.gif)
-![](http://imgur.com/HtFXcfI.gif)
 ![](http://imgur.com/DCW0PvA.gif)
-![](https://vimeo.com/129242458)
+
+[Vimeo](https://vimeo.com/mathiasfonck)
+
 ## Werkervaring
 
-Mijn werkervaring in de multimediale en grafische branche is zeer beperkt. Ik heb echter wel 7 jaar ervaring in de horeca.
+Mijn werkervaring in de multimediale en grafische branche is zeer beperkt. Ik heb echter wel 7 jaar ervaring in de horeca[^foot].
+
+[^foot]: Splintercompositum van de woorden hotel, restaurant en café.
 
 ## Kennis webtechnologieën
 * HTML
