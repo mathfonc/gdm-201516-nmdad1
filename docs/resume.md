@@ -1,6 +1,6 @@
 # Resume
 ## Biografie
-![Mathias Fonck](https://scontent-fra3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1507802_686790278095449_7053994830684937344_n.jpg?oh=e446309c87bb71996b7c0de539845a05&oe=56AB77F6=250x)
+![Mathias Fonck](https://nl.gravatar.com/userimage/61446368/43354f6461a6ca9c010df56f6764f28c?size=200)
 ## Portfolio
 ## Werkervaring
 ## Kennis webtechnologieën
