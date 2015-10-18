@@ -1,10 +1,12 @@
 # gdm-201516-nmdad1
 
-Deze repository werd gemaakt als opdracht binnen het vak New Media Design and Development binnen de faculteit grafische en digitale media aan de Artevelde Hogeschool.
+![gdm-201516-nmdad1-logo](images/gdm-201516-nmdad1-logo.png?raw=true "Optional Title")
+
+Deze repository werd gemaakt als opdracht binnen het vak New Media Design and Development 1 binnen de faculteit grafische en digitale media aan de Arteveldehogeschool.
 
 ## docs
 
-De folder docs bevat resume.md.
+De folder docs bevat resume.md. evenals de folder images.
 
 ## Links
 

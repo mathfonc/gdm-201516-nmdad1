@@ -1,0 +1,12 @@
+================================================================================
+Naam:   Mathias Fonck
+Klas:   2MMP-Produce-a
+Olod:   New Media Design & Development I
+================================================================================
+Taken Week 1
+================================================================================
+Link GitHub Account: https://github.com/mathfonc
+Link Bitbucket Account: https://bitbucket.org/mathfonc/
+Link gdm-201516-nmdad1 repository: https://github.com/mathfonc/gdm-201516-nmdad1
+Link resume.md Markdown document: https://github.com/mathfonc/gdm-201516-nmdad1/blob/master/docs/resume.md
+================================================================================
