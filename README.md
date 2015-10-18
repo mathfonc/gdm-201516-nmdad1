@@ -1,6 +1,8 @@
 # gdm-201516-nmdad1
 
+<p aling="center">
 ![gdm-201516-nmdad1-logo](docs/images/gdm-201516-nmdad1-logo.png?raw=true)
+</p>
 
 Deze repository werd gemaakt als opdracht binnen het vak New Media Design and Development 1 binnen de faculteit grafische en digitale media aan de Arteveldehogeschool.
 
